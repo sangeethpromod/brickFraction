@@ -2,7 +2,7 @@
 
 You will type, by hand, the first slice of the Radisson Fractional backend and frontend: a Go API on Neon Postgres, Better Auth sign-up and login in Next.js, and role-based authorization in Go. Nothing here is copy-and-run. Each lesson tells you what to type, why, and how to check it worked.
 
-> Demo disclaimer: this project is a technical simulation. It moves no real money. See [../docs/00-overview.md](../docs/00-overview.md).
+> Demo disclaimer: this project is a technical simulation. It moves no real money. See [../docs/00-overview.md](../docs/00-overview.md)....
 
 ## 1. Goal and time
 
