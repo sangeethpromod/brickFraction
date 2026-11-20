@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "38156af928be2638",
+    "type": "split",
+    "children": [
+      {
+        "id": "201cbf33bf8cba23",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "934713f914abaed1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "584f4998793962de",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf0b4d0f59113a3d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80c3b3c63575892d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "93eeb0cd1bcb24f6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d8c0738d698a8612",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1a485d289d939db7",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa230ea16a32ddbe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d0d24303b11b181e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "bf12e0102f7a9cfa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "49e01146107b874f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "afb63678bdac0e41",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "830765243d8b7a4d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "934713f914abaed1",
+  "lastOpenFiles": [
+    "LICENSE",
+    "Backend/internal/platform/logger/logger.go",
+    "Backend/internal/platform/httpx/httpx.go",
+    "Backend/internal/modules/kyc/service.go",
+    "Backend/internal/modules/kyc/routes.go",
+    "Backend/internal/modules/kyc/repository.go",
+    "Backend/internal/modules/kyc/model.go",
+    "Backend/internal/modules/kyc/mailer.go",
+    "Backend/internal/modules/identity/service_test.go",
+    "Backend/internal/modules/kyc/controller.go",
+    "Backend/internal/modules/identity/model.go",
+    "docs/adr/README.md",
+    "docs/adr/0010-docs-as-code.md",
+    "docs/adr/0009-separate-issuer-and-property-manager-roles.md",
+    "docs/adr/0008-rent-per-share-accumulator.md",
+    "docs/adr/0007-custodial-wallets-for-demo.md",
+    "docs/adr/0006-single-settlement-token-tusd-with-fx-quotes.md",
+    "docs/adr/0005-one-token-per-offering.md",
+    "docs/adr/0004-foundry-and-anvil.md",
+    "docs/adr/0003-river-queue-no-redis-initially.md",
+    "docs/adr/0002-go-for-api-indexer-workers.md",
+    "docs/adr/0001-postgres-over-mongodb.md",
+    "docs/README.md",
+    "docs/open-questions.md",
+    "docs/06-screens.md",
+    "docs/05-contracts.md",
+    "docs/04-architecture.md",
+    "docs/03-pricing-and-fx.md",
+    "docs/02-domain-model.md",
+    "docs/01-roles-and-journeys.md",
+    "docs/00-overview.md",
+    "node_modules/wrap-ansi/node_modules/string-width/readme.md",
+    "node_modules/cliui/node_modules/string-width/readme.md",
+    "node_modules/@neon/sdk/README.md",
+    "node_modules/@neon/env/README.md",
+    "node_modules/@neon/config/README.md",
+    "Frontend/public/images/property/living.jpg",
+    "Frontend/public/images/property/bedroom.jpg",
+    "Frontend/public/images/property/kitchen.jpg",
+    "Frontend/public/images/property/floor-plan.jpg",
+    "Frontend/public/images/property/dinning.jpg",
+    "Frontend/public/images/property/exterior.jpg",
+    "Frontend/public/images/house-dusk.webp",
+    "Frontend/public/bg.png",
+    "Frontend/public/images/modern-house-ui.jpg",
+    "Frontend/public/window.svg"
+  ]
+}

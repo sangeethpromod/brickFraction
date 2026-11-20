@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+
+# dependencies and build output
+node_modules/
+.next/
+backend/bin/
+*.test
+```
+tmp/
